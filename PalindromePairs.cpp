@@ -1,4 +1,4 @@
-//palindrome Pairs
+//palindrome Pair
 //https://practice.geeksforgeeks.org/problems/palindrome-pairs/1
 
 
