@@ -1,4 +1,4 @@
-class Solution {
+class Solution  {
     
 private:
     void sol(TreeNode* root)
