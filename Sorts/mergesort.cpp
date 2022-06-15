@@ -44,4 +44,4 @@ class Solution
        }
        return;
     }
-}
+};
